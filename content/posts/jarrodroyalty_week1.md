@@ -4,4 +4,4 @@ date: 2021-09-01T00:00:00-04:00
 draft: false
 ---
 
-As a group this week we learned how to set up Hugo and GitHub and link the two together. Mollie was able to link the two and start the process for us to create our personal posts onto our Hugo website. We were able to link up in communication through groupme and Microsoft teams to discuss the content we want on our Wordpress website and work on these group reports together.
+This week I learned a lot about website creation and tools to use to help with that. Learned that Microsoft teams is quite useful and also made my first account on Github. Learned about how the class will be set up, and some cool projects we will be working on throughout this class. I had never heard of Hugo and I am very excited to get to use it and have that under my belt. I also have realized I may be more useful on the front end of things for my group.
