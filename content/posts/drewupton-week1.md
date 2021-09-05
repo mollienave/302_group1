@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Drew Upton"
-date: 2021-09-5T00:00:00-04:00
+date: 2021-09-05T00:00:00-04:00
 draft: false
 ---
 
