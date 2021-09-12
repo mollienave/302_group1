@@ -1,5 +1,5 @@
 ---
-title: "Group post 2"
+title: "Week 2 Group 1"
 date: 2021-09-11T00:00:00-04:00
 draft: false
 ---
