@@ -5,7 +5,7 @@ draft: false
 ---
 
 F: 
-*Does not contribute to group work 
+* Does not contribute to group work 
 *Does not show up to class 
 *Does not respond to group messages 
 
