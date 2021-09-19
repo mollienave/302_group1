@@ -8,7 +8,7 @@ F:
 - Did not participate whatsoever.
 - Did not communicate with group members outside of class.
 - Did not create any work.
-- Did not come to class
+- Did not come to class.
 
 D: 
 - Minimal amount of participation.
