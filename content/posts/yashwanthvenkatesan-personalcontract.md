@@ -1,5 +1,8 @@
-
-title: "Personal Contract Yashwanth Venkatesan"
+---
+title: "Yashwanth Venkatesan Personal Contract"
+date: 2021-09-19T00:00:00-04:00
+draft: false
+---
 
 A: Does required tasks. Pitches ideas. Edits pages. Helps group member. On time. Shows up to class. Communicates well.
 B: Does all of what’s required in A but might not communicate as well and misses a few classes and doesn’t edit pages or give input on other group members work that much.
