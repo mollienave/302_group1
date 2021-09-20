@@ -1,5 +1,5 @@
 ---
-title: "Week 4 Jarrod Royalty"
+title: "Week 3 Jarrod Royalty"
 date: 2021-09-19T00:00:00-04:00
 draft: false
 ---
