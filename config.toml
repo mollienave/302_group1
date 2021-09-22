@@ -11,7 +11,7 @@ theme = "ananke"
     weight = 1
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    identifier = "home"
     name = "All Posts"
     url = "https://focused-mcnulty-b07f4d.netlify.app/posts/"
     weight = 1
