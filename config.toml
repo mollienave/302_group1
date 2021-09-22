@@ -13,6 +13,11 @@ theme = "ananke"
  url = "https://focused-mcnulty-b07f4d.netlify.app/posts/"
  weight = 2
 
+[[menu.main]]
+ name = "Music"
+ url = "/music"
+ weight = 3
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
