@@ -3,6 +3,13 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
 
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "https://focused-mcnulty-b07f4d.netlify.app/"
+    weight = 1
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
