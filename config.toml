@@ -15,7 +15,7 @@ theme = "ananke"
 
 [[menu.main]]
  name = "Music"
- url = "/music"
+ url = "/music/music.md"
  weight = 3
 
 [build]
