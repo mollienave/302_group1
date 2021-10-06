@@ -1,6 +1,6 @@
 ---
 title: "Week 5 Tanner Fox"
-date: 2021-09-3T00:00:00-10:00
+date: 2021-10-3T00:00:00-10:00
 draft: false
 ---
 
