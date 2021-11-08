@@ -1,6 +1,6 @@
 ---
 title: "Yashwanth Venkatesan Personal Contract [Revised]"
-date: 2021-09-19T00:00:00-04:00
+date: 2021-10-31T00:00:00-04:00
 draft: false
 ---
 Edit: I think my personal contract still works.
